@@ -10,8 +10,7 @@ java学习笔记
 
 2. 下载 JDK
 下载地址
-http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-
-2133151.html
+http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 
 3. 配置 Java  开发环境
 认识一下 JDK 的文件夹
